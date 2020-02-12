@@ -78,6 +78,11 @@ const worker = createWorker({
 
 
 ## Installation
+
+Help us provide you with better support:
+
+<a href="https://app.haxor.sh/intro?key=e9f1b81d-0321-4679-ac8d-2f62cb97f5fa"><img src="https://app.haxor.sh/images/share-your-build.png" alt="Share your build with Haxor"></a>
+
 Tesseract.js works with a `<script>` tag via local copy or CDN, with webpack via `npm` and on Node.js with `npm/yarn`.
 
 
