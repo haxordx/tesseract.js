@@ -72,15 +72,17 @@ const worker = createWorker({
 - Support WebAssembly (fallback to ASM.js when browser doesn't support)
 - Support Typescript
 
+## Help us improve these docs
+
+Share your coding session with us!
+
+<a href="https://haxor-dev.ngrok.io/intro?key=4b885e99-f5f8-409d-a6c7-6958d82f95e5">
+  <img src="https://app.paircast.io/images/share-your-build.png" alt="Share with Paircast">
+</a>
 
 ## Installation
 
-Help us provide you with better support:
-
-<a href="https://app.haxor.sh/intro?key=e9f1b81d-0321-4679-ac8d-2f62cb97f5fa"><img src="https://app.haxor.sh/images/share-your-build.png" alt="Share your build with Haxor"></a>
-
 Tesseract.js works with a `<script>` tag via local copy or CDN, with webpack via `npm` and on Node.js with `npm/yarn`.
-
 
 ### CDN
 ```html
